@@ -1,0 +1,19 @@
+T	2009-06-01 21:43:59
+U	http://twitter.com/burtonator
+W	No Post sleep
+
+T	2009-06-01 21:47:23
+U	http://twitter.com/burtonator
+W	No Post sleep
+
+T	2009-06-02 01:15:44
+U	http://twitter.com/burtonator
+W	No Post Title
+
+T	2009-06-02 05:17:52
+U	http://twitter.com/burtonator
+W	No Post sleep sleep
+
+T	2009-06-02 23:58:25
+U	http://twitter.com/burtonator
+W	No Post sleep
